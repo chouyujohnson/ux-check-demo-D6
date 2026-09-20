@@ -92,15 +92,3 @@ ai-content-template
 ```
 
 ## 檢查清單
-
-- JSON 是否使用雙引號？
-- 每個欄位名稱是否和樣板一致？
-- `features` 是否是陣列？
-- `faq` 是否是陣列？
-- 每筆特色是否都有 `title` 和 `description`？
-- 如果有加入圖片，每筆特色是否都有 `imageUrl` 和 `imageAlt`？
-- 圖片網址是否可以在瀏覽器開啟？
-- `imageAlt` 是否能說明圖片內容？
-- 每組 FAQ 是否都有 `question` 和 `answer`？
-- 使用 Live Server 開啟後，畫面是否正常顯示？
-- Console 是否有錯誤訊息？
