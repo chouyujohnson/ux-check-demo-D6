@@ -23,3 +23,11 @@ AI Web Craft | 品牌體驗與前端實作班
 - 每次只產出一個頁面或一小段修正內容。
 - 首頁先將 HTML、CSS 與 JavaScript 集中在 index.html 中，並使用 fetch 讀取 data/website-content.json。
 - 視覺以酒紅色作為重點色，整體保持清楚易讀、專業且具親和力，並嚴格避免使用過多的 emoji。
+
+
+### 4. 後續產出程式碼時要遵守的限制
+- 僅使用 HTML、CSS 與原生 JavaScript，不使用任何安裝框架或第三方套件。
+- 純靜態網站，不使用後端或資料庫。
+- 每次只產出一個頁面或一小段修正內容。
+- 首頁先將 HTML、CSS 與 JavaScript 集中在 index.html 中，並使用 fetch 讀取 data/website-content.json。
+- 視覺以酒紅色作為重點色，整體保持清楚易讀、專業且具親和力，並嚴格避免使用過多的 emoji。
